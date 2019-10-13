@@ -40,4 +40,3 @@ The main components of this project are the following:
 - hand_coded folder contains the baseline versions of dmi, vortex and trix indicators.
 
 Any other pieces of code are preserved as "useful side effects".
-- 
